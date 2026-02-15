@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "バースデイズ (Sped Up Ver.)",
+  "base_artist": "hiroki.",
+  "createdAt": "2026-02-15T14:45:14.745674Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "バースデイズ",
+      "artist": "hiroki.",
+      "has_synced": false,
+      "path": "select/pl_01_バースデイズ_hiroki..txt"
+    }
+  ]
+}
